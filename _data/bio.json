@@ -1,27 +1,18 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Jenil Kumbhani",
+    "label": "Python & SQL, Data Science Enthusiast, Data Analytics, Machine Learning or any Analyst roles. B.E. - IT (RGIT, Mumbai",
+    "picture": "https://github.com/jenil060402.png",
+    "email": "jenil060402@gmail.com",
+    "summary": "An enthusiastic and brilliant mind. Tend to follow a logical approach and like to work accordingly with prioritizing experiences along the way. Confident in what I do and the work I take up. Never tired of learning more.",
+    "location": { "Mumbai, India"},
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
+      { "network": "Github", "username": "Jenil060402", "url": "http://github.com/jenil060402" },
+      { "network": "LinkedIn", "username": "Jenil ", "url": "http://linkedin.com/in/jenilk" },
+      { "network": "", "Kaggle": "Jenil060402", "url": "https://www.kaggle.com/jenilkumbhani" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
-  "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
-  ],
   "skills": [
     {
       "name": "Languages and Frameworks",
