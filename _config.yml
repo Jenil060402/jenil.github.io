@@ -31,5 +31,5 @@ include:
   - _data
 plugins:
   - jekyll-gist
-  - jekyll-remote-theme
+
  
