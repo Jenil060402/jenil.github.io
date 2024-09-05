@@ -48,6 +48,7 @@ GEM
       webrick (~> 1.7)
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
+    jekyll-remote-theme
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
     jekyll-watch (2.2.1)
@@ -106,6 +107,7 @@ DEPENDENCIES
   html-proofer
   jekyll (~> 4.3.3)
   jekyll-gist
+  jekyll-remote-theme
   rouge
   tzinfo (~> 1.2)
   tzinfo-data
